@@ -1,0 +1,1 @@
+export type RatioCategory = 'LIQUIDITY' | 'PROFITABILITY' | 'EFFICIENCY' | 'SOLVENCY' | 'PERFORMANCE' | 'GROWTH';

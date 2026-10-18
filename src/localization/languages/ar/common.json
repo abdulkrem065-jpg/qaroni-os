@@ -1,0 +1,20 @@
+{
+  "search": "بحث...",
+  "logout": "تسجيل الخروج",
+  "system_admin": "مدير النظام",
+  "main_branch": "الفرع الرئيسي",
+  "dashboard": "الرئيسية",
+  "sales": "المبيعات",
+  "inventory": "المخزون",
+  "customers": "العملاء",
+  "settings": "الإعدادات",
+  "quick_action": "إجراء سريع",
+  "executive_dashboard": "لوحة القيادة التنفيذية",
+  "dashboard_welcome": "مرحباً بك، هذا هو التصميم الأساسي الجديد للنظام",
+  "kpi_indicator": "مؤشر أداء {{index}}",
+  "main_chart_area": "مساحة الرسم البياني الأساسي",
+  "alerts_list": "قائمة التنبيهات",
+  "switch_language": "Switch to English",
+  "toggle_theme": "تبديل المظهر",
+  "toggle_sidebar": "تبديل القائمة الجانبية"
+}

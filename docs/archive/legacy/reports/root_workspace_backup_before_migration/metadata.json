@@ -1,0 +1,6 @@
+{
+  "name": "مستودع ونظام قاروني (QEOS)",
+  "description": "مستودع ونظام قاروني (QEOS) - بوابة الشحن الفوري للألعاب والبطاقات، والهايبرماركت الإلكتروني المتكامل للمواد التموينية اليمنية الفاخرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

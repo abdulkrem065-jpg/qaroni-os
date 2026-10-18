@@ -1,0 +1,8 @@
+{
+  "name": "Qaroni OS (QEOS)",
+  "description": "QEOS is a modular, multi-tenant ERP & SaaS operating platform built using Clean Architecture and Domain-Driven Design. It supports retail, grocery stores, supermarkets, pharmacies, restaurants, warehouses, accounting, inventory, sales, purchasing, HR, CRM, and future business modules through a plugin-based architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

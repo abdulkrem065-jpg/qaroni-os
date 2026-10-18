@@ -1,0 +1,20 @@
+{
+  "search": "Search...",
+  "logout": "Logout",
+  "system_admin": "System Admin",
+  "main_branch": "Main Branch",
+  "dashboard": "Dashboard",
+  "sales": "Sales",
+  "inventory": "Inventory",
+  "customers": "Customers",
+  "settings": "Settings",
+  "quick_action": "Quick Action",
+  "executive_dashboard": "Executive Dashboard",
+  "dashboard_welcome": "Welcome, this is the new core system design",
+  "kpi_indicator": "KPI Indicator {{index}}",
+  "main_chart_area": "Main Chart Area",
+  "alerts_list": "Alerts List",
+  "switch_language": "التبديل للعربية",
+  "toggle_theme": "Toggle Theme",
+  "toggle_sidebar": "Toggle Sidebar"
+}
